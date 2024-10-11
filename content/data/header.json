@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Download",
-            "altText": "Sign up",
+            "altText": "Download",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
